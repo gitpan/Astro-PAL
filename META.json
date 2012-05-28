@@ -35,7 +35,7 @@
    "provides" : {
       "Astro::PAL" : {
          "file" : "lib/Astro/PAL.pm",
-         "version" : "1.01"
+         "version" : "1.02"
       }
    },
    "release_status" : "stable",
@@ -48,5 +48,5 @@
          "url" : "git://github.com/timj/perl-Astro-PAL.git"
       }
    },
-   "version" : "1.01"
+   "version" : "1.02"
 }
