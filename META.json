@@ -4,7 +4,7 @@
       "Tim Jenness E<gt>tjenness@cpan.orgE<lt>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.4, CPAN::Meta::Converter version 2.120351",
+   "generated_by" : "Module::Build version 0.3901, CPAN::Meta::Converter version 2.120630",
    "license" : [
       "open_source"
    ],
@@ -35,7 +35,7 @@
    "provides" : {
       "Astro::PAL" : {
          "file" : "lib/Astro/PAL.pm",
-         "version" : "1.02"
+         "version" : "1.03"
       }
    },
    "release_status" : "stable",
@@ -48,5 +48,5 @@
          "url" : "git://github.com/timj/perl-Astro-PAL.git"
       }
    },
-   "version" : "1.02"
+   "version" : "1.03"
 }
